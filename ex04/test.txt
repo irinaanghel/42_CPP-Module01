@@ -1,0 +1,8 @@
+test di prova ex04
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ Donec dolor leo, tristique nec commodo eu, gravida non quam.
+  Proin cursus arcu sit amet felis sagittis
+, sit amet tincidunt nunc sollicitudin. 
+Morbi at egestas arcu, a condimentum ex. 
+Donec quis fermentum nisl. 
+Curabitur
