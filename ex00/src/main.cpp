@@ -6,7 +6,7 @@
 /*   By: aanghel <aanghel@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/11 04:33:36 by aanghel           #+#    #+#             */
-/*   Updated: 2023/01/11 05:06:42 by aanghel          ###   ########.fr       */
+/*   Updated: 2023/01/20 11:05:52 by aanghel          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,4 +22,4 @@ int main()
 	randomChump("Pluto");
 	delete zombie;
 	return (0);
-}
+}	

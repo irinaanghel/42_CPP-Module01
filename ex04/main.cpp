@@ -6,7 +6,7 @@
 /*   By: aanghel <aanghel@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/13 22:08:08 by aanghel           #+#    #+#             */
-/*   Updated: 2023/01/14 02:33:33 by aanghel          ###   ########.fr       */
+/*   Updated: 2023/01/20 11:06:44 by aanghel          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -26,6 +26,7 @@ int main(int argc, char *argv[])
 	{
 		std::cout << "This program accepts 3 parameters, in this order: ";
 		std::cout << "Filename and two strings." << std::endl;
+		return (1);
 	}
 	input.open(argv[1], std::ios::in);
 	if (input.fail())
